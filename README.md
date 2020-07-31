@@ -1,1 +1,1 @@
-# DataCamp_ExploringTheKaggleDataScienceSurvey
+# ExploringTheKaggleDataScienceSurvey
